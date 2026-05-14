@@ -1,0 +1,16 @@
+# pi / agent local state
+.pi/
+
+# OS cruft
+.DS_Store
+
+# Vim generated files
+*.swp
+*.swo
+*.un~
+.netrwhist
+tags
+
+# Plugin manager installs should live in ~/.vim/bundle, not this repo.
+autoload/
+bundle/
